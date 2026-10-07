@@ -1,0 +1,1 @@
+var json_AnemoneSumbersariJember_5 = {"type":"FeatureCollection","name":"AnemoneSumbersariJember_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Bimbel Calistung Anemone Sumbersari Jember"},"geometry":{"type":"Point","coordinates":[113.7258268,-8.1691162]}}]}
